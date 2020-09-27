@@ -1,7 +1,18 @@
 # frontend-nis
 
-Pertama install dependencies menggunakan npm install
+Install Aplikasi Backend
+---------------------
 
-Kemudian jalankan aplikasi dengan menggunakan script npm run serve
+- Jalankan script dibawah ini untuk melakukan install dependencies
 
-Setelah itu aplikasi dapat diakses pada alamat http://localhost:8080
+> npm install
+
+- Kemudian untuk memulai aplikasi jalankan script di bawah ini
+
+> npm run serve
+
+- Kemudian aplikasi frontend dapat langsung digunakan pada alamat berikut
+
+> http://localhost:8080
+
+## Terima Kasih
